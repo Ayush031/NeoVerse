@@ -14,8 +14,6 @@
 /out/
 
 # production
-/build
-WebBuild.data
 
 # misc
 .DS_Store
